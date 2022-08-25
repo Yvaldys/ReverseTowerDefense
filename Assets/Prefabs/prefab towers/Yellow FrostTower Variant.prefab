@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2398014715598036182
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1727015211721624442, guid: 4b8972ee5ba211746b2de554d49b41d6, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1727015211721624442, guid: 4b8972ee5ba211746b2de554d49b41d6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.3740256
+      objectReference: {fileID: 0}
+    - target: {fileID: 1727015211721624442, guid: 4b8972ee5ba211746b2de554d49b41d6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.259186
+      objectReference: {fileID: 0}
+    - target: {fileID: 1727015211721624442, guid: 4b8972ee5ba211746b2de554d49b41d6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.635871
+      objectReference: {fileID: 0}
+    - target: {fileID: 1727015211721624442, guid: 4b8972ee5ba211746b2de554d49b41d6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1727015211721624442, guid: 4b8972ee5ba211746b2de554d49b41d6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1727015211721624442, guid: 4b8972ee5ba211746b2de554d49b41d6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1727015211721624442, guid: 4b8972ee5ba211746b2de554d49b41d6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1727015211721624442, guid: 4b8972ee5ba211746b2de554d49b41d6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1727015211721624442, guid: 4b8972ee5ba211746b2de554d49b41d6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1727015211721624442, guid: 4b8972ee5ba211746b2de554d49b41d6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3033317303825714383, guid: 4b8972ee5ba211746b2de554d49b41d6, type: 3}
+      propertyPath: _damageType
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6090226209996848352, guid: 4b8972ee5ba211746b2de554d49b41d6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 79112f32a6046cb48a6dc229617f5acc, type: 2}
+    - target: {fileID: 7662998405649223268, guid: 4b8972ee5ba211746b2de554d49b41d6, type: 3}
+      propertyPath: m_Name
+      value: Yellow FrostTower
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4b8972ee5ba211746b2de554d49b41d6, type: 3}
